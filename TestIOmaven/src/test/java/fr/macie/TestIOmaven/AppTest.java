@@ -1,4 +1,4 @@
-package fr.macie.TesIOmaven;
+package fr.macie.TestIOmaven;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

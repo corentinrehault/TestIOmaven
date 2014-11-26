@@ -1,4 +1,4 @@
-package fr.macie.TesIOmaven;
+package fr.macie.TestIOmaven;
 
 /**
  * Hello world!
